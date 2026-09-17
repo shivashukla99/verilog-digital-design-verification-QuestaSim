@@ -26,4 +26,4 @@ Each project includes the **Verilog design code, testbench, simulation results, 
 
 The main objective of this repository is to demonstrate my practical knowledge of **Verilog-based RTL design and functional verification** while building a strong foundation for a career in **VLSI Design Verification**.
 
-### NOTE* These codes debugged and verified through Seimens EDA tool (QuestaSim) Advance verification.The verification screebshots are in this repository.
+### NOTE* These codes debugged and verified through Seimens EDA tool (QuestaSim) Advance verification.The verification screenshots are in this repository.
