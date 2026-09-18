@@ -29,9 +29,13 @@ The main objective of this repository is to demonstrate my practical knowledge o
 ### NOTE* These codes debugged and verified through Seimens EDA tool (QuestaSim) Advance verification.The verification screenshots are in this repository.
 
 ### Results
+
+### d_latch
 ![d_latch_schametic](d_latch_schametic.png)
 ![d_latch_sim](d_latch_sim.png)
+----------------------------------------------------------------------------
+### t_latch
 ![schematch_t_latch](schematch_t_latch.png)
 ![sim_t_latch](sim_t_latch.png)
-
+-----------------------------------------------------------------------------
 
