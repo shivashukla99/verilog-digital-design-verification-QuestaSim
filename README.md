@@ -38,4 +38,5 @@ The main objective of this repository is to demonstrate my practical knowledge o
 ![schematch_t_latch](schematch_t_latch.png)
 ![sim_t_latch](sim_t_latch.png)
 -----------------------------------------------------------------------------
-
+### jk_latch
+![jk_latch](jk_latch.png)
