@@ -40,3 +40,5 @@ The main objective of this repository is to demonstrate my practical knowledge o
 -----------------------------------------------------------------------------
 ### jk_latch
 ![jk_latch](jk_latch.png)
+### siso register 
+![siso](siso.png)
